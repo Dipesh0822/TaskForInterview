@@ -1,0 +1,17 @@
+1. string dynamic use karavi means string game te hoy sake
+    input "Xyz Person"  
+    output X.P.
+ 
+    example: "Xyz person Fi" ==> X.P.F. 
+
+2. sum karava no chhe  
+    input [10,30,40, None, undefind, "20", "", "a"]
+    output 100
+    
+    example: [10,30,40,50,60,70,80, null, undefind, "15", "", "a"] =>  355
+
+3. array dynamic use karavo means array game te hoy sake
+    input [[10,20,30,40,50],[40,50,60,70,80,90]] 
+    output [10,90] 
+
+    example: [[10,20,30,40,150],[40,50,60,70,80]] => [10,150] 
