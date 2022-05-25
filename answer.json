@@ -1,15 +1,141 @@
-
-[ {
-    "emp_id": 1,
-    "Name": "Ronaldo",
-    "AGE": "15",
-    "Designation": "CEO",
-    "Country": "U.S.",
-    "salary_details": [{
-      "total_salary": 10000
-    
-    }, {
-      "total_salary": 10000
-    
-    }, .........]
-  }, ...........]
+[
+  {
+    "NAME": "Ronaldo",
+    "ID": 1,
+    "DESIGNATION": "CEO",
+    "COUNTRY": "U.S.",
+    "AGE": "21 years 139 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 14000
+      },
+      {
+        "TOTAL_SALARY": 16800
+      },
+      {
+        "TOTAL_SALARY": 6000
+      }
+    ]
+  },
+  {
+    "NAME": "Messi",
+    "ID": 2,
+    "DESIGNATION": "CTO",
+    "COUNTRY": "India",
+    "AGE": "29 years 303 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 16100
+      },
+      {
+        "TOTAL_SALARY": 13000
+      },
+      {
+        "TOTAL_SALARY": 9800
+      }
+    ]
+  },
+  {
+    "NAME": "Robert",
+    "ID": 3,
+    "DESIGNATION": "Software Developer",
+    "COUNTRY": "India",
+    "AGE": "30 years 68 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 16600
+      },
+      {
+        "TOTAL_SALARY": 9200
+      }
+    ]
+  },
+  {
+    "NAME": "Neymar",
+    "ID": 4,
+    "DESIGNATION": "Software Engineer",
+    "COUNTRY": "New Zealand",
+    "AGE": "18 years",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 5000
+      },
+      {
+        "TOTAL_SALARY": 5400
+      }
+    ]
+  },
+  {
+    "NAME": "Kevin",
+    "ID": 5,
+    "DESIGNATION": "Software Developer",
+    "COUNTRY": "India",
+    "AGE": "33 years 308 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 5000
+      },
+      {
+        "TOTAL_SALARY": 10000
+      }
+    ]
+  },
+  {
+    "NAME": "Erling",
+    "ID": 6,
+    "DESIGNATION": "Web Designer",
+    "COUNTRY": "U.S.",
+    "AGE": "43 years 264 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 17500
+      }
+    ]
+  },
+  {
+    "NAME": "Kylian",
+    "ID": 7,
+    "DESIGNATION": "Full Stack Developer",
+    "COUNTRY": "U.S.",
+    "AGE": "46 years 199 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 37500
+      }
+    ]
+  },
+  {
+    "NAME": "Trent",
+    "ID": 8,
+    "DESIGNATION": "Full Stack Developer",
+    "COUNTRY": "India",
+    "AGE": "23 years 202 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 47300
+      }
+    ]
+  },
+  {
+    "NAME": "Luka",
+    "ID": 9,
+    "DESIGNATION": "Full Stack Mobile Developer",
+    "COUNTRY": "India",
+    "AGE": "19 years 139 days",
+    "SALARYDETAILS": [
+      {
+        "TOTAL_SALARY": 27300
+      }
+    ]
+  },
+  {
+    "NAME": "Dhruv",
+    "ID": 10,
+    "DESIGNATION": "Director",
+    "COUNTRY": "India",
+    "AGE": "40 years 249 days",
+    "SALARYDETAILS": [
+      
+    ]
+  }
+]
